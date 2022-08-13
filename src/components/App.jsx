@@ -3,7 +3,7 @@ import Button from "./Button";
 import InputArea from "./InputArea";
 import Reset from "./Reset";
 
-import basicStrategy from "../../public/Tables/basic-strategy.png";
+import basicStrategy from "../Tables/basic-strategy.png";
 
 export default function App() {
   const [inputText, setInputText] = useState("");
